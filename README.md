@@ -1,5 +1,6 @@
 #. What is Garbage Collection?
-It is a process to removing unused object from java heap area and making
+ 
+ It is a process to removing unused object from java heap area and making
  heap space empty for uses.
 
 #. Two Methods: 1. Finalized
